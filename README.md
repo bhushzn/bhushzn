@@ -1,4 +1,4 @@
-# ðŸ’« About Me:
+ About Me:
 Iâ€™m currently working on engineering responsive web applications, including my recent project Cure Ledger, and delivering freelance front-end solutions. Iâ€™m looking to collaborate on open-source front-end development, Python-based tools, and UI/UX design initiatives.<br>â€‹ Iâ€™m looking for help with best practices for scaling web architectures and integrating advanced AI tools into development workflows.<br>â€‹ Iâ€™m currently learning modern web frameworks and advanced coding methodologies to complement my B.Tech coursework at SATI Vidisha.<br>â€‹ Ask me about building intuitive user interfaces, Python programming, and my experience in the 2026 Student Ambassador Program.<br>â€‹ Fun fact: Beyond coding, I actively develop my discipline and leadership skills through my involvement in the NCC!<br><br>I am a dedicated B.Tech student and Front-End Developer with a strong focus on creating clean, user-centric web applications and exploring AI-driven development."
 
 
